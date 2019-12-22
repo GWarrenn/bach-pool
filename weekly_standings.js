@@ -14,7 +14,6 @@ window.addEventListener('load', function() {
 
 	function draw(data, tabletop) {
 
-
 		spaghetti = tabletop.sheets("weekly rankings")
 		spaghetti_data = spaghetti.elements
 
